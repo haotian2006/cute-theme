@@ -1,0 +1,1 @@
+Extended of https://gitlab.com/WebFreak001/cute-vscode/-/blob/master/themes/cute.json?ref_type=heads

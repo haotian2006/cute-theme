@@ -1,11 +1,15 @@
 {
     "name": "cute-pink-theme-modified",
-    "displayName": "My Theme Display Name",
+    "displayName": "Cute Pink Theme Modified",
     "description": "Extended of https://gitlab.com/WebFreak001/cute-vscode/-/blob/master/themes/cute.json?ref_type=heads",
     "version": "0.0.1",
-    "publisher": "your-name",
+    "publisher": "haotian2006",
     "engines": {
         "vscode": "^1.60.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/haotian2006/cute-theme"
     },
     "categories": ["Themes"],
     "extensionDependencies": [
