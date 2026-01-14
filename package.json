@@ -1,0 +1,21 @@
+{
+    "name": "cute-pink-theme-modified",
+    "displayName": "My Theme Display Name",
+    "description": "Extended of https://gitlab.com/WebFreak001/cute-vscode/-/blob/master/themes/cute.json?ref_type=heads",
+    "version": "0.0.1",
+    "publisher": "your-name",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": ["Themes"],
+    "extensionDependencies": [
+        "publisher.cute-theme-id"
+    ],
+    "contributes": {
+        "themes": [{
+        "label": "Cute Pink Theme Extension",
+        "uiTheme": "vs",
+        "path": "./themes/my-theme.json"
+        }]
+    }
+}
